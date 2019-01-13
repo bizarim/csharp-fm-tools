@@ -1,5 +1,6 @@
-[submodule "fm-Lib"]
+[submodule "fm-dlls"]
 	path = fm-dlls
 	url = url = https://github.com/bizarim/fm-dlls.git
 
 	branch = master
+
