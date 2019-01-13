@@ -105,7 +105,7 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\fm-Lib\fmCommon\fmCommon.csproj">
+    <ProjectReference Include="..\..\fm-dlls\fmCommon\fmCommon.csproj">
       <Project>{3c2db9cd-6312-4f18-af5d-a185e27edee0}</Project>
       <Name>fmCommon</Name>
     </ProjectReference>
