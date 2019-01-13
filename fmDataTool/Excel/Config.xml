@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+  <!--fmData 만들기 순서 03-->
+  <!--fliename / sheetname / eFmDataType 순으로 작성한다.-->
+
+  <!--XXXXX 설정
+  <item>
+    <flie>fmData.xlsx</flie>
+    <sheet>XXXXX</sheet>
+    <eFmDataType>XXXXX</eFmDataType>
+  </item>
+  -->
+  <!--<item>
+    <flie>fmData.xlsx</flie>
+    <sheet>GameConst</sheet>
+    <eFmDataType>GameConst</eFmDataType>
+  </item>-->
+  <!--<item>
+    <flie>fmData.xlsx</flie>
+    <sheet>Option</sheet>
+    <eFmDataType>Option</eFmDataType>
+  </item>
+  <item>
+    <flie>fmData.xlsx</flie>
+    <sheet>Explore</sheet>
+    <eFmDataType>Explore</eFmDataType>
+  </item>
+  <item>
+    <flie>fmData.xlsx</flie>
+    <sheet>Map</sheet>
+    <eFmDataType>Map</eFmDataType>
+  </item>
+  <item>
+    <flie>fmData.xlsx</flie>
+    <sheet>InDun</sheet>
+    <eFmDataType>InDun</eFmDataType>
+  </item>
+  <item>
+    <flie>fmData.xlsx</flie>
+    <sheet>DTomb</sheet>
+    <eFmDataType>DTomb</eFmDataType>
+  </item>
+  <item>
+    <flie>fmData.xlsx</flie>
+    <sheet>Maze</sheet>
+    <eFmDataType>Maze</eFmDataType>
+  </item>
+  
+  <item>
+    <flie>fmData.xlsx</flie>
+    <sheet>Monster</sheet>
+    <eFmDataType>Monster</eFmDataType>
+  </item>
+  --><!--<item>
+    <flie>fmData.xlsx</flie>
+    <sheet>Goblin</sheet>
+    <eFmDataType>Goblin</eFmDataType>
+  </item>--><!--
+  <item>
+    <flie>fmData.xlsx</flie>
+    <sheet>Item</sheet>
+    <eFmDataType>Item</eFmDataType>
+  </item>
+
+  <item>
+    <flie>fmData.xlsx</flie>
+    <sheet>DropValue</sheet>
+    <eFmDataType>DropValue</eFmDataType>
+  </item>
+  --><!-- 미션 --><!--
+  <item>
+    <flie>fmData.xlsx</flie>
+    <sheet>Mission</sheet>
+    <eFmDataType>Mission</eFmDataType>
+  </item>
+  <item>
+    <flie>fmData.xlsx</flie>
+    <sheet>Exp</sheet>
+    <eFmDataType>Exp</eFmDataType>
+  </item>
+
+  <item>
+    <flie>fmData.xlsx</flie>
+    <sheet>Shop</sheet>
+    <eFmDataType>Shop</eFmDataType>
+  </item>-->
+  <!--<item>
+    <flie>fmData.xlsx</flie>
+    <sheet>Good</sheet>
+    <eFmDataType>Good</eFmDataType>
+  </item>-->
+
+  <item>
+    <flie>fmData.xlsx</flie>
+    <sheet>PvpDummy</sheet>
+    <eFmDataType>PvpDummy</eFmDataType>
+  </item>
+  <!--<item>
+    <flie>fmData.xlsx</flie>
+    <sheet>DHeart</sheet>
+    <eFmDataType>DHeart</eFmDataType>
+  </item>-->
+  
+</Config>

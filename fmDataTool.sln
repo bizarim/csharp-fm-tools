@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fmDataTool", "fmDataTool\fmDataTool.csproj", "{874DB33E-8960-4C60-855A-D2862B7C89E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.fm-Lib", "01.fm-Lib", "{C39F06EB-19ED-4F35-9601-65B3FDDDD4D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fmCommon", "fm-Lib\fmCommon\fmCommon.csproj", "{3C2DB9CD-6312-4F18-AF5D-A185E27EDEE0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tool", "Tool", "{F49F526A-8199-4037-B8B1-669483F42974}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{874DB33E-8960-4C60-855A-D2862B7C89E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874DB33E-8960-4C60-855A-D2862B7C89E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874DB33E-8960-4C60-855A-D2862B7C89E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874DB33E-8960-4C60-855A-D2862B7C89E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C2DB9CD-6312-4F18-AF5D-A185E27EDEE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2DB9CD-6312-4F18-AF5D-A185E27EDEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2DB9CD-6312-4F18-AF5D-A185E27EDEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2DB9CD-6312-4F18-AF5D-A185E27EDEE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{874DB33E-8960-4C60-855A-D2862B7C89E1} = {F49F526A-8199-4037-B8B1-669483F42974}
+		{3C2DB9CD-6312-4F18-AF5D-A185E27EDEE0} = {C39F06EB-19ED-4F35-9601-65B3FDDDD4D4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7A138E8-8B59-4A54-9C98-FD7FB2123155}
+	EndGlobalSection
+EndGlobal

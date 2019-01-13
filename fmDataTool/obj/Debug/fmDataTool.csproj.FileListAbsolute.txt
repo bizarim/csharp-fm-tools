@@ -1,0 +1,12 @@
+C:\Project\GIT\fm-tool\fmDataTool\bin\Debug\fmDataTool.exe.config
+C:\Project\GIT\fm-tool\fmDataTool\bin\Debug\fmDataTool.exe
+C:\Project\GIT\fm-tool\fmDataTool\bin\Debug\fmDataTool.pdb
+C:\Project\GIT\fm-tool\fmDataTool\bin\Debug\fmCommon.dll
+C:\Project\GIT\fm-tool\fmDataTool\bin\Debug\fmCommon.pdb
+C:\Project\GIT\fm-tool\fmDataTool\obj\Debug\fmDataTool.csprojAssemblyReference.cache
+C:\Project\GIT\fm-tool\fmDataTool\obj\Debug\fmDataTool.Properties.Resources.resources
+C:\Project\GIT\fm-tool\fmDataTool\obj\Debug\fmDataTool.csproj.GenerateResource.cache
+C:\Project\GIT\fm-tool\fmDataTool\obj\Debug\fmDataTool.csproj.CoreCompileInputs.cache
+C:\Project\GIT\fm-tool\fmDataTool\obj\Debug\fmDataTool.csproj.CopyComplete
+C:\Project\GIT\fm-tool\fmDataTool\obj\Debug\fmDataTool.exe
+C:\Project\GIT\fm-tool\fmDataTool\obj\Debug\fmDataTool.pdb
